@@ -47,11 +47,11 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 ---
 
 ### **Gelecek Güncelle Notları**
-1- Kategori ismi editlenmiyor.
-2- Kategori alanında X tuşuna basıldığında direkt siliyor. Emin misin popup olsa iyi olur. 
-3- Kategori içerisindeki bütün tasklar tamamlandıysa kategorinin üzeri otomatik çizilebilir ya da farklı bir şekilde renklendirilebilir.
-4- Görev bölümlendirme alanında tamamlananlar/yapılacaklar gibi 'in progress 'state de eklenebilir.
-5- Kategori bölümü de (görevler bölümü gibi) bölümlendirilendirilebilir.
-6- Görevler arasında sıralama değişikliği yapılamıyor. (kullanıcı bakışıyla bug)
-7- Görevler için alarm/timer eklenebilir. 
-8- Kategoriler ve/veya görevler için deadline alanı eklenebilir.
+1- **Kategori ismi editlenmiyor.**
+2- **Kategori alanında X tuşuna basıldığında direkt siliyor. Emin misin popup olsa iyi olur. **
+3- **Kategori içerisindeki bütün tasklar tamamlandıysa kategorinin üzeri otomatik çizilebilir ya da farklı bir şekilde renklendirilebilir.**
+4- **Görev bölümlendirme alanında tamamlananlar/yapılacaklar gibi 'in progress 'state de eklenebilir.**
+5- **Kategori bölümü de (görevler bölümü gibi) bölümlendirilendirilebilir.**
+6- **Görevler arasında sıralama değişikliği yapılamıyor.**
+7- **Görevler için alarm/timer eklenebilir. **
+8- **Kategoriler ve/veya görevler için deadline alanı eklenebilir.**
