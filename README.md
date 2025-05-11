@@ -46,9 +46,12 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) 
 
 ---
 
-### **Açıklamalar ve İpuçları**
-1. **Mobil Odaklı Özellikler**: Masaüstü versiyonda olmayan "Bildirimler" ve "Mobil Optimizasyon" gibi mobil platforma özgü özellikleri ekledim. Eğer uygulamanızda başka mobil odaklı özellikler varsa (örneğin, kamera entegrasyonu, GPS), bunları da ekleyebilirsin.
-2. **İndirme Linkleri**: Şu anda sadece Android için bir link verdim, çünkü bu mobil versiyon. Eğer iOS için de bir sürüm planlıyorsan, o linki de ekleyebilirsin.
-3. **Teknik Detaylar**: React Native ve SQLite gibi mobil geliştirme için yaygın teknolojileri ekledim. Uygulamanın kullandığı kesin teknolojilere göre bu bölümü güncelleyebilirsin (örneğin, Room DB yerine SQLite kullanıyorsan).
-4. **Kurulum**: APK yükleme adımlarını basitçe ekledim. Kullanıcıların bilinmeyen kaynaklardan yükleme izni vermesi gerektiğini hatırlattım.
-5. **Lisans**: MIT Lisansı eklediğini varsaydım. Eğer lisans dosyası yoksa, önceki mesajlarımda verdiğim adımları takip ederek ekleyebilirsin.
+### **Gelecek Güncelle Notları**
+1- Kategori ismi editlenmiyor.
+2- Kategori alanında X tuşuna basıldığında direkt siliyor. Emin misin popup olsa iyi olur. 
+3- Kategori içerisindeki bütün tasklar tamamlandıysa kategorinin üzeri otomatik çizilebilir ya da farklı bir şekilde renklendirilebilir.
+4- Görev bölümlendirme alanında tamamlananlar/yapılacaklar gibi 'in progress 'state de eklenebilir.
+5- Kategori bölümü de (görevler bölümü gibi) bölümlendirilendirilebilir.
+6- Görevler arasında sıralama değişikliği yapılamıyor. (kullanıcı bakışıyla bug)
+7- Görevler için alarm/timer eklenebilir. 
+8- Kategoriler ve/veya görevler için deadline alanı eklenebilir.
