@@ -24,7 +24,7 @@ OmniTaskAndroid aşağıdaki teknolojileri ve araçları kullanır:
   - Vector Icons  
 
 - **Backend**:  
-  - Yerel SQLite veritabanı (veya AsyncStorage)  
+  - LocalStorage  
   - Cihazın yerel bildirim API’leri  
 
 - **Diğer**:  
